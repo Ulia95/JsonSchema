@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/2bxpacrj4f11vd9f?svg=true)](https://ci.appveyor.com/project/Ulia95/jsonschema)
